@@ -3961,71 +3961,8 @@
          "type": "tops",
          "addStoryLink": "https:\/\/api.whatsapp.com\/send?text=Checkout+this+amazing+product+at+Limeroad%21%20Don%27t+miss+out%21%20https:\/\/www.limeroad.com\/beige-georgette-deebaco-p19453923?imgIdx=3&amp;src_id=navdeskDresses__101",
          "floating": "New"
-        },
-        {
-         "id": 338,
-         "poster": "https:\/\/:0\/",
-         "newPrice": "₹ 599",
-         "originalPrice": "₹999",
-         "offer": "40% off",
-         "stylistCollection": "https:\/\/www.limeroad.com\/brand\/heet-enterprise-78977?src_id=navdeskDresses__101",
-         "stylist": "Heet Enterprise",
-         "type": "tops",
-         "addStoryLink": "https:\/\/api.whatsapp.com\/send?text=Checkout+this+amazing+product+at+Limeroad%21%20Don%27t+miss+out%21%20https:\/\/www.limeroad.com\/green-crepe-heet-enterprise-p19495574?imgIdx=3&amp;src_id=navdeskDresses__101",
-         "floating": "New"
-        },
-        {
-         "id": 339,
-         "poster": "https:\/\/:0\/",
-         "off": "offer",
-         "offerTag": "Buy 2 Get 1 Free",
-         "newPrice": "₹ 999",
-         "originalPrice": "₹1599",
-         "offer": "38% off",
-         "stylistCollection": "https:\/\/www.limeroad.com\/brand\/hive91-50036?src_id=navdeskDresses__101",
-         "stylist": "Hive91",
-         "type": "tops",
-         "addStoryLink": "https:\/\/api.whatsapp.com\/send?text=Checkout+this+amazing+product+at+Limeroad%21%20Don%27t+miss+out%21%20https:\/\/www.limeroad.com\/blue-rayon-hive91-p19452164?imgIdx=3&amp;src_id=navdeskDresses__101",
-         "floating": "New"
-        },
-        {
-         "id": 340,
-         "poster": "https:\/\/:0\/",
-         "newPrice": "₹ 1499",
-         "originalPrice": "₹2999",
-         "offer": "50% off",
-         "stylistCollection": "https:\/\/www.limeroad.com\/brand\/deebaco-71784?src_id=navdeskDresses__101",
-         "stylist": "Deebaco",
-         "type": "tops",
-         "addStoryLink": "https:\/\/api.whatsapp.com\/send?text=Checkout+this+amazing+product+at+Limeroad%21%20Don%27t+miss+out%21%20https:\/\/www.limeroad.com\/red-chiffon-deebaco-p19490235?imgIdx=3&amp;src_id=navdeskDresses__101",
-         "floating": "New"
-        },
-        {
-         "id": 341,
-         "poster": "https:\/\/:0\/",
-         "newPrice": "₹ 499",
-         "originalPrice": "₹999",
-         "offer": "50% off",
-         "stylistCollection": "https:\/\/www.limeroad.com\/brand\/pyramid-fashions-78603?src_id=navdeskDresses__101",
-         "stylist": "Pyramid Fashions",
-         "type": "tops",
-         "addStoryLink": "https:\/\/api.whatsapp.com\/send?text=Checkout+this+amazing+product+at+Limeroad%21%20Don%27t+miss+out%21%20https:\/\/www.limeroad.com\/multi-crepe-pyramid-fashions-p19349777?imgIdx=3&amp;src_id=navdeskDresses__101",
-         "floating": "New"
-        },
-        {
-         "id": 342,
-         "poster": "https:\/\/:0\/",
-         "newPrice": "₹ 799",
-         "originalPrice": "₹1199",
-         "offer": "33% off",
-         "stylistCollection": "https:\/\/www.limeroad.com\/brand\/fashion-hub-64013?src_id=navdeskDresses__101",
-         "stylist": "Fashion Hub",
-         "type": "tops",
-         "addStoryLink": "https:\/\/api.whatsapp.com\/send?text=Checkout+this+amazing+product+at+Limeroad%21%20Don%27t+miss+out%21%20https:\/\/www.limeroad.com\/green-net-fashion-hub-p19495186?imgIdx=3&amp;src_id=navdeskDresses__101",
-         "floating": "New"
         }
-       
-     
+        
    ]
 
 }
